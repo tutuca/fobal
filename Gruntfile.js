@@ -71,7 +71,7 @@ module.exports = function (grunt) {
         },
     });    
     // Task definition
-    grunt.registerTask('build', ['copy', 'sass', 'webpack']);
+    grunt.registerTask('build', ['webpack', 'copy', 'sass', ]);
     grunt.registerTask('default', ['build', 'watch']);
 
 };
