@@ -1,0 +1,40 @@
+{
+  "name": "fobal",
+  "version": "0.0.1",
+  "description": "para armar partidos de fobal.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/tutuca/fobal"
+  },
+  "keywords": [
+    "futbol",
+    "calendario",
+    "partidos"
+  ],
+  "author": "tutuca",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap-sass": "*",
+    "font-awesome": "*",
+    "jquery": "*",
+    "react":"*"
+  },
+  "devDependencies": {
+    "node-sass":"*",
+    "webpack": "*",
+    "babel-loader": "*",
+    "grunt": "*",
+    "grunt-cli":"*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-sass": "*",
+    "grunt-webpack": "*"
+  }
+}
+
+
+
+
+
+
